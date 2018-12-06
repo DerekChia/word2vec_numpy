@@ -1,6 +1,6 @@
 # Word2Vec Implementation using Numpy
 
-This is a implementation of Word2Vec using numpy. Click [here](https://medium.com/@derekchia/a-line-by-line-implementation-guide-to-word2vec-using-numpy-13445eebd281) for the accompanying blog post.
+This is a implementation of Word2Vec using numpy. Click [here](https://medium.com/@derekchia/an-implementation-guide-to-word2vec-using-numpy-and-google-sheets-13445eebd281) for the accompanying blog post.
 
 To see Word2Vec in action, uncomment the print functions! Also remember to change the number of `epochs` and set `training_data` to `training_data[0]` to avoid flooding your terminal. A Google Sheet implementation of Word2Vec is also available [here](https://docs.google.com/spreadsheets/d/1mgf82Ue7MmQixMm2ZqnT1oWUucj6pEcd2wDs_JgHmco/edit?usp=sharing). Have fun learning!
 
